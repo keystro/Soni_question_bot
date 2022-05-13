@@ -10,7 +10,7 @@ browser.get("https://topcustomwritings.com/entrepreneurship-and-small-business-m
 
 df = pd.read_csv('homework.csv', index_col=0)
 
-for i in range(-1,10):
+for i in range(-1,50):
 
         x  = i + 1
 
